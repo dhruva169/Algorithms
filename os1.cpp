@@ -92,8 +92,6 @@ int main()
         }
     }
 
-
-
     cout<<"TEACHER'S INDEX\tALLOCATED STUDENTS"<<endl;
     for(int i=1;i<=no_of_mentors;++i){
         cout<<i<<"\t\t\t";
